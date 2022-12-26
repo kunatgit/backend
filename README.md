@@ -1,2 +1,2 @@
 # backend
- backend with reactjs
+ backend with nodejs
