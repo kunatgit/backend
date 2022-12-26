@@ -1,5 +1,6 @@
 const http = require("http");
-const port = process.env.port || 3001;
+const config = require("./config");
+const port = config.port;
 
 
 const app = require("./app");
